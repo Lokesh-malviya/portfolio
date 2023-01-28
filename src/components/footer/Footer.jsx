@@ -24,7 +24,7 @@ const Footer = () => {
             <a href="https://github.com/Lokesh-malviya" className="footer__social-link" target="_blank"><i class="uil uil-github"></i></a>
             <a href="https://www.linkedin.com/in/lokesh-malviya-42139a215/" className="footer__social-link" target="_blank"><i class="uil uil-linkedin"></i></a>
             </div>
-            <span className="footer__copy">Crypticalcoder. All right reserved</span>
+            <span className="footer__copy">Lokesh Malviya. All right reserved</span>
         </div>
     </footer>
   )
